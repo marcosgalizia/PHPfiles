@@ -1,4 +1,6 @@
 <?php
+
+// this is a test
 session_start();
 	if(($_SESSION['id']) || ($_SESSION['username'])) 
 	 	 

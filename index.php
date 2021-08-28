@@ -1,9 +1,11 @@
 <?php
+//this is a test
 session_start(); 
 /*if( ! ini_get('date.timezone') )
 {
     date_default_timezone_set('GMT');
 }*/
+
 error_reporting(E_ALL);
 ini_set('display_errors', 0);  
 
