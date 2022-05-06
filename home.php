@@ -1,6 +1,7 @@
 <?php
 session_start();
 
+echo "this a test";
 
 ini_set('display_errors','1');
 	if(($_SESSION['id']) || ($_SESSION['username'] ))
